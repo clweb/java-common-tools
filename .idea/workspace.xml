@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VIemjCPhmQdcTVB67u3tRT1ZIG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -39,6 +39,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576945196675</updated>
-      <workItem from="1576945200960" duration="401000" />
+      <workItem from="1576945200960" duration="998000" />
     </task>
     <servers />
   </component>
@@ -90,9 +91,9 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="1128" y="194" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576945230880" />
-    <state x="0" y="30" key="SettingsEditor" timestamp="1576945404821">
+    <state x="0" y="30" key="SettingsEditor" timestamp="1576946201869">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="0" y="30" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1576945404821" />
+    <state x="0" y="30" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1576946201869" />
   </component>
 </project>
