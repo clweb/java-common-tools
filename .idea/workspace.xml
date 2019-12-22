@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="751e895d-4b29-4e95-b230-c36bbd51a8a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java/class_and_object.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com.zeroten.common.util/CheckUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IdeaProjects/JavaStudyDemo" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VIemjCPhmQdcTVB67u3tRT1ZIG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31554738" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ArrayUtilsTest.testSort">
+    <configuration name="ArrayUtilsTest.testSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-common-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.utils.ArrayUtilsTest" />
+      <option name="METHOD_NAME" value="testSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.testEqual" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-common-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.utils.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="testEqual" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.testEqualsInteger" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-common-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.utils.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="testEqualsInteger" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.testIsAnyEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-common-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.utils.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="testIsAnyEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckUtilsTest.testIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java-common-tools" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.common.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.common.utils.CheckUtilsTest" />
+      <option name="METHOD_NAME" value="testIsEmpty" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ArrayUtilsTest.testSort" />
+        <item itemvalue="TestNG.CheckUtilsTest.testEqualsInteger" />
+        <item itemvalue="TestNG.CheckUtilsTest.testIsAnyEmpty" />
+        <item itemvalue="TestNG.CheckUtilsTest.testEqual" />
+        <item itemvalue="TestNG.CheckUtilsTest.testIsEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="751e895d-4b29-4e95-b230-c36bbd51a8a3" name="Default Changelist" comment="" />
+      <created>1576945196675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576945196675</updated>
+      <workItem from="1576945200960" duration="1229000" />
+      <workItem from="1576974481029" duration="18681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="30" key="#Project_Structure" timestamp="1576982422729">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="374" y="30" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1576982422729" />
+    <state x="778" y="158" width="979" height="811" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576986362479">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="778" y="158" width="979" height="811" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576986362479" />
+    <state x="976" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576945413286">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="976" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576945413286" />
+    <state x="1135" y="391" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576945414895">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1135" y="391" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.30.1920.1050@0.30.1920.1050" timestamp="1576945414895" />
+    <state x="1128" y="194" key="FileChooserDialogImpl" timestamp="1576982274469">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="1128" y="194" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576982274469" />
+    <state width="1097" height="295" key="GridCell.Tab.0.bottom" timestamp="1577010618537">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1097" height="295" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1577010618537" />
+    <state width="1097" height="295" key="GridCell.Tab.0.center" timestamp="1577010618537">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1097" height="295" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1577010618537" />
+    <state width="1097" height="295" key="GridCell.Tab.0.left" timestamp="1577010618537">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1097" height="295" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1577010618537" />
+    <state width="1097" height="295" key="GridCell.Tab.0.right" timestamp="1577010618537">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1097" height="295" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1577010618537" />
+    <state x="0" y="30" key="SettingsEditor" timestamp="1576946201869">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="30" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1576946201869" />
+    <state x="0" y="30" width="964" height="1050" key="find.popup" timestamp="1576975858832">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="30" width="964" height="1050" key="find.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1576975858832" />
+    <state x="0" y="74" key="new project wizard" timestamp="1576974495729">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="74" key="new project wizard/0.30.1920.1050@0.30.1920.1050" timestamp="1576974495729" />
+    <state x="814" y="28" width="1009" height="1470" key="search.everywhere.popup" timestamp="1576975821087">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="814" y="28" width="1009" height="1470" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1576975821087" />
+  </component>
+</project>
