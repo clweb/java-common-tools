@@ -4,7 +4,10 @@
     <list default="true" id="751e895d-4b29-4e95-b230-c36bbd51a8a3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Java/class_and_object.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com.zeroten.common.util/CheckUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/utils/ArrayUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/zeroten/common/utils/CheckUtilsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IdeaProjects/JavaStudyDemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +38,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31554738" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -50,6 +53,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java-common-tools\src\test" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.ArrayUtilsTest.testSort">
@@ -176,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576945196675</updated>
       <workItem from="1576945200960" duration="1229000" />
-      <workItem from="1576974481029" duration="18681000" />
+      <workItem from="1576974481029" duration="19387000" />
     </task>
     <servers />
   </component>
@@ -203,10 +209,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="1135" y="391" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.30.1920.1050@0.30.1920.1050" timestamp="1576945414895" />
-    <state x="1128" y="194" key="FileChooserDialogImpl" timestamp="1576982274469">
+    <state x="1128" y="194" key="FileChooserDialogImpl" timestamp="1577011466150">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="1128" y="194" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576982274469" />
+    <state x="1128" y="194" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1577011466150" />
     <state width="1097" height="295" key="GridCell.Tab.0.bottom" timestamp="1577010618537">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -223,10 +229,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state width="1097" height="295" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1577010618537" />
-    <state x="0" y="30" key="SettingsEditor" timestamp="1576946201869">
+    <state x="0" y="30" key="SettingsEditor" timestamp="1577011210428">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="0" y="30" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1576946201869" />
+    <state x="0" y="30" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1577011210428" />
     <state x="0" y="30" width="964" height="1050" key="find.popup" timestamp="1576975858832">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
